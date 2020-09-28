@@ -6,6 +6,6 @@ Below link takes you to the application and makes a room with auto generated id,
 https://webrtc-friends-call.herokuapp.com/
 
 
-p.s. : for trial you can copy that link to another tab to see if it is working fine. 
+p.s. : For trial you can copy that link to another tab to see if it is working fine. 
 
 
